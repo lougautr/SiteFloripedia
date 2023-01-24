@@ -1,0 +1,470 @@
+/*Voici une police que j'ai importé depuis fontsquirrel*/
+
+@font-face {
+  font-family: "sommaire";
+  src: url('../polices/leaguespartan-bold-webfont.woff') format('woff');
+}
+
+/*--------------------------------------------------*/
+
+.abraham_lincoln {
+  width: 137px;
+  height: 155px;
+  float: right;
+  padding: 10px;
+}
+
+.andrew_jackson {
+  width: 113px;
+  height: 138px;
+  float: right;
+  padding: 10px;
+}
+
+.capcana {
+  background-image: url("img/icon-capcana.png");
+  background-repeat: no-repeat;
+  background-position: 95% 6%; 
+  background-size: 30%;
+  text-align: left;
+}
+
+.charlesfort {
+  width: 130px;
+  height: 88px;
+  float: right;
+  padding: 10px;
+}
+
+.climat {
+  background-image: url("img/icon-climat.png");
+  background-repeat: no-repeat;
+  background-position: 20% 8%; 
+  background-size: 35%;
+  text-align: right;
+  margin-right: 10%;
+}
+
+.contenu1 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.contenu2 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.contenu3 {
+  border: 5px dotted #88430a;
+  margin-right: 30px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.contenu4 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.contenu4 li {
+  list-style-image: url(img/icon-boussole.png);
+}
+
+.contenu5 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.contenu6 {
+  border: 5px dotted #88430a;
+  margin-right: 30px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.contenu7 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.contenu8 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.contenu9 {
+  border: 5px dotted #88430a;
+  margin-right: 30px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.contenu10 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.contenu11 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.disney_world {
+  width: 250px;
+  height: 176px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;  
+  float: right;
+}
+
+.division_floride {
+  width: 206px;
+  height: 123px;
+  padding: 20px;
+  float: right;
+}
+
+.edward_mccook {
+  width: 148px;
+  height: 184px;
+  padding: 20px;
+  float: right;
+}
+
+.fort_caroline {
+  width: 117px;
+  height: 89px;
+  float: right;
+  padding: 10px;
+}
+
+.franklin_delano_roosevelt {
+  width: 152px;
+  height: 182px;
+  float: right;
+  padding: 10px;
+}
+
+.george_washington_scott {
+  width: 149px;
+  height: 199px;
+  float: right;
+  padding: 10px;
+}
+
+.guerre_h-a{
+  width: 244px;
+  height: 198px;
+  float: right;
+  padding: 10px;
+}
+
+.guerre_seminole1 {
+  width: 236px;
+  height: 158px;
+  float: right;
+  padding: 10px;
+}
+
+.guerre_seminole2 {
+  width: 260px;
+  height: 159px;
+  float: right;
+  padding: 10px;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 0fr 2fr 2fr;
+  background-image: url("img/icon-histoire.png");
+  background-repeat: no-repeat;
+  background-position: 50% 55%; 
+  background-size: 10%;
+}
+
+.hernando_de_soto {
+  width: 127px;
+  height: 151px;
+  float: right;
+  padding: 10px;
+}
+
+.histoire {
+  background-image: url("img/icon-histoire.png");
+  background-repeat: no-repeat;
+  background-position: 85% 60%; 
+  background-size: 30%;
+  text-align: left;
+}
+
+.jean_ribault {
+  width: 100px;
+  height: 124px;
+  float: right;
+  padding: 10px;
+}
+
+.john_milton {
+  width: 113px;
+  height: 138px;
+  float: left;
+  padding: 20px;
+}
+
+.juan_ponce {
+  width: 108px;
+  height: 119px;
+  float: right;
+  padding: 10px;
+}
+
+.li_abraham {
+  padding-bottom: 170px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_andrew {
+  padding-bottom: 150px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_charlesfort {
+  padding-bottom: 120px;
+  list-style-image: url(img/icon-lieu.png);
+  font-variant: small-caps;
+}
+
+.li_disney {
+  list-style-image: url(img/icon-lieu.png);
+  font-variant: small-caps;
+}
+
+.li_edward {
+  padding-bottom: 250px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_floride {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-lieu.png);
+  font-variant: small-caps;
+}
+
+.li_fort {
+  list-style-image: url(img/icon-lieu.png);
+  font-variant: small-caps;
+}
+
+.li_franklin {
+  padding-bottom: 170px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_george {
+  padding-bottom: 230px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_guerre_h-a {
+  padding-bottom: 250px;
+  list-style-image: url(img/icon-guerre.png);
+  font-variant: small-caps;
+}
+
+.li_guerre_seminole1 {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-guerre.png);
+  font-variant: small-caps;
+}
+
+.li_guerre_seminole2 {
+  padding-bottom: 190px;
+  list-style-image: url(img/icon-guerre.png);
+  font-variant: small-caps;
+}
+
+.li_hernando {
+  padding-bottom: 180px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_jean {
+  padding-bottom: 120px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_john {
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_juan {
+  padding-bottom: 150px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_olustee {
+  padding-bottom: 220px;
+  list-style-image: url(img/icon-guerre.png);
+  font-variant: small-caps;
+}
+
+.li_pedro {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_seminole {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_tristan {
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+  padding-bottom: 180px;
+  padding-top: 20px;
+}
+
+.li_william_d {
+  padding-bottom: 170px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_william_p {
+  padding-bottom: 150px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.lieu {
+  text-decoration: none;
+  color: #8289f7;
+}
+
+.nom {
+  text-decoration: none;
+  color: #ba5af5;
+}
+
+.olustee {
+  width: 239px;
+  height: 158px;
+  float: right;
+  padding: 10px;
+}
+
+.pedro_menendez_de_aviles {
+  width: 118px;
+  height: 133px;
+  float: right;
+  padding: 10px;
+}
+
+.seminole {
+  width: 112px;
+  height: 139px;
+  float: left;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.sommaire {
+  text-align: center;
+  font-family: "sommaire";
+  font-size: 13px;
+  padding-top: 32px;
+}
+
+.sommaire li {
+  padding: 5px;
+}
+
+.sommaire ul {
+  list-style: none;
+  border: 1px solid #88430a;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-right: 40px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
+.source {
+  text-align: right;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.sport {
+  background-image: url("img/icon-sport.png");
+  background-repeat: no-repeat;
+  background-position: 85% 50%; 
+  background-size: 35%;
+  text-align: left;
+}
+
+.tourisme {
+  background-image: url("img/icon-tourisme.png");
+  background-repeat: no-repeat;
+  background-position: 10% 50%; 
+  background-size: 35%;
+  text-align: right;
+  margin-right: 10%;
+}
+
+.tristan_de_luna {
+  width: 108px;
+  height: 112px;
+  float: left;
+  padding: 10px;
+}
+
+.william_dunn_moseley {
+  width: 121px;
+  height: 147px;
+  float: right;
+  padding: 10px;
+}
+
+.william_pope_duval {
+  width: 124px;
+  height: 150px;
+  float: left;
+  padding: 10px;
+}
+
+/* J'ai réussi à faire en sorte que lorsque l'on dézoome la page, le contenu de la page reste au centre, mais les background imges restent malheureusement 
+   à la même taille*/ 
+/* J'ai ajouter diverses icones variées afin de personnaliser mes puces de photos, chaque icone a un rapport avec l'image*/
+/* J'ai aussi glissé des gifs à coté de mes sources pour que ce soient plus esthétique*/
+/* Sur certaines pages, lorsque l'on appuie sur les images, cela renvoi au lien wikipédia associé au sujet ou à l'image*/ 
+/* J'ai essayé de mettre tous les éléments de mon menu avec leur propriété dans le fichier base.css mais cela ne marchait pas*/

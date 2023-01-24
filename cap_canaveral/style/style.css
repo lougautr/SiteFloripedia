@@ -1,0 +1,319 @@
+/*Voici une police que j'ai importé depuis fontsquirrel*/
+
+@font-face {
+  font-family: "sommaire";
+  src: url('../polices/leaguespartan-bold-webfont.woff') format('woff');
+}
+
+/*--------------------------------------------------*/
+
+.apollo_8 {
+  width: 238px;
+  height: 172px;
+  float: left;
+  padding: 10px;
+}
+
+.apollo_11 {
+  width: 258px;
+  height: 145px;
+  float: right;
+  padding: 10px;
+}
+
+.banana_river {
+  width: 227px;
+  height: 171px;
+  float: right;
+  padding: 10px;
+}
+
+.capcana {
+  background-image: url("img/icon-capcana.png");
+  background-repeat: no-repeat;
+  background-position: 95% 6%; 
+  background-size: 30%;
+  text-align: left;
+}
+
+.centre_spatial_kennedy {
+  width: 211px;
+  height: 160px;
+  float: right;
+  padding: 10px;
+}
+
+.climat {
+  background-image: url("img/icon-climat.png");
+  background-repeat: no-repeat;
+  background-position: 20% 8%; 
+  background-size: 35%;
+  text-align: right;
+  margin-right: 10%;
+}
+
+.contenu1 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.contenu2 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.contenu3 {
+  border: 5px dotted #88430a;
+  margin-right: 30px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.contenu4 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.contenu5 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.contenu6 {
+  border: 5px dotted #88430a;
+  margin-right: 30px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.contenu7 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.contenu8 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.gemini {
+  width: 238px;
+  height: 191px;
+  float: left;
+  padding: 10px;
+}
+
+.harry_truman {
+  width: 135px;
+  height: 168px;
+  float: left;
+  padding: 10px;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 0fr 2fr 2fr;
+  background-image: url("img/icon-capcana.png");
+  background-repeat: no-repeat;
+  background-position: 58% 20%; 
+  background-size: 9%;
+}
+
+.histoire {
+  background-image: url("img/icon-histoire.png");
+  background-repeat: no-repeat;
+  background-position: 85% 60%; 
+  background-size: 30%;
+  text-align: left;
+}
+
+.john_kennedy {
+  width: 135px;
+  height: 185px;
+  float: left;
+  padding: 10px;
+}
+
+.lieu {
+  text-decoration: none;
+  color: #8289f7;
+}
+
+.li_apollo_8 {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-fusée.png);
+  font-variant: small-caps;
+}
+
+.li_apollo_11 {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-astronaute.png);
+  font-variant: small-caps;
+}
+
+.li_banana_river {
+  padding-bottom: 220px;
+  list-style-image: url(img/icon-vague.png);
+  font-variant: small-caps;
+}
+
+.li_centre_spatial_kennedy {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-lieu.png);
+  font-variant: small-caps;
+}
+
+.li_gemini {
+  padding-bottom: 250px;
+  list-style-image: url(img/icon-fusée.png);
+  font-variant: small-caps;
+}
+
+.li_harry_truman {
+  padding-bottom: 240px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_john_kennedy {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-profil.png);
+  font-variant: small-caps;
+}
+
+.li_plan_kennedy_space_center {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-lieu.png);
+  font-variant: small-caps;
+}
+
+.li_mercury {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-fusée.png);
+  font-variant: small-caps;
+}
+
+.li_merritt_island {
+  padding-bottom: 200px;
+  list-style-image: url(img/icon-lieu.png);
+  font-variant: small-caps;
+}
+
+.li_nasa {
+  padding-bottom: 160px;
+  list-style-image: url(img/icon-fusée.png);
+  font-variant: small-caps;
+}
+
+.li_us_air_force {
+  padding-bottom: 200px;
+  list-style-image: url(img/icon-avion.png);
+  font-variant: small-caps;
+}
+
+.mercury {
+  width: 218px;
+  height: 237px;
+  float: right;
+  padding: 10px;
+}
+
+.merritt_island {
+  width: 236px;
+  height: 177px;
+  float: right;
+  padding: 10px;
+}
+
+.nasa {
+  width: 140px;
+  height: 117px;
+  float: left;
+  padding: 10px;
+}
+
+.nom {
+  text-decoration: none;
+  color: #ba5af5;
+}
+
+.plan_kennedy_space_center {
+  width: 243px;
+  height: 233px;
+  float: right;
+  padding: 10px;
+}
+
+.sommaire {
+  text-align: center;
+  font-family: "sommaire";
+  font-size: 15px;
+  padding-top: 99px;
+}
+
+.sommaire li {
+  padding: 5px;
+}
+
+.sommaire ul {
+  list-style: none;
+  border: 1px solid #88430a;
+  padding-right: 30px;
+  margin-top: -10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+  margin-right: 40px;
+}
+
+.source {
+  text-align: right;
+  text-decoration: none;
+  font-style: italic;
+  padding-top: 20px;
+}
+
+.sport {
+  background-image: url("img/icon-sport.png");
+  background-repeat: no-repeat;
+  background-position: 85% 50%; 
+  background-size: 35%;
+  text-align: left;
+}
+
+.titre h1 {
+  padding-top: 40px;
+}
+
+.tourisme {
+  background-image: url("img/icon-tourisme.png");
+  background-repeat: no-repeat;
+  background-position: 10% 50%; 
+  background-size: 35%;
+  text-align: right;
+  margin-right: 10%;
+}
+
+.us_air_force {
+  width: 136px;
+  height: 136px;
+  float: right;
+  padding: 10px;
+}
+
+/* J'ai réussi à faire en sorte que lorsque l'on dézoome la page, le contenu de la page reste au centre, mais les background imges restent malheureusement 
+   à la même taille*/ 
+/* J'ai ajouter diverses icones variées afin de personnaliser mes puces de photos, chaque icone a un rapport avec l'image*/
+/* J'ai aussi glissé des gifs à coté de mes sources pour que ce soient plus esthétique*/
+/* Sur certaines pages, lorsque l'on appuie sur les images, cela renvoi au lien wikipédia associé au sujet ou à l'image*/ 
+/* J'ai essayé de mettre tous les éléments de mon menu avec leur propriété dans le fichier base.css mais cela ne marchait pas*/

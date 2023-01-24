@@ -1,0 +1,362 @@
+/*Voici une police que j'ai importé depuis fontsquirrel*/
+
+@font-face {
+  font-family: "sommaire";
+  src: url('../polices/leaguespartan-bold-webfont.woff') format('woff');
+}
+
+/*--------------------------------------------------*/
+
+.art_deco {
+  width: 240px;
+  height: 158px;
+  float: right;
+  padding: 10px;
+}
+
+.capcana {
+  background-image: url("img/icon-capcana.png");
+  background-repeat: no-repeat;
+  background-position: 95% 6%; 
+  background-size: 30%;
+  text-align: left;
+}
+
+.chateau_disneyland {
+  width: 235px;
+  height: 157px;
+  float: right;
+  padding: 10px;
+}
+
+.climat {
+  background-image: url("img/icon-climat.png");
+  background-repeat: no-repeat;
+  background-position: 20% 8%; 
+  background-size: 35%;
+  text-align: right;
+  margin-right: 10%;
+}
+
+.contenu1 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.contenu2 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.contenu3 {
+  border: 5px dotted #88430a;
+  margin-right: 30px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.contenu4 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.contenu5 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.contenu6 {
+  border: 5px dotted #88430a;
+  margin-right: 30px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.contenu7 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.contenu8 {
+  border: 5px dotted #88430a;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.downtown {
+  width: 240px;
+  height: 134px;
+  float: right;
+  padding: 10px;
+}
+
+.entrée_disney {
+  width: 235px;
+  height: 157px;
+  float: right;
+  padding: 10px;
+}
+
+.entrée_universal {
+  width: 253px;
+  height: 382px;
+  float: inline-end;
+  padding: 10px;
+}
+
+.epcot {
+  width: 262px;
+  height: 142px;
+  float: right;
+  padding: 10px;
+}
+
+.flamand {
+  width: 218px;
+  height: 170px;
+  float: inline-start;
+  padding: 10px;
+}
+
+.fusée {
+  width: 235px;
+  height: 151px;
+  float: right;
+  padding: 10px;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 0fr 2fr 2fr;
+  background-image: url("img/icon-tourisme.png");
+  background-repeat: no-repeat;
+  background-position: 55% 55%; 
+  background-size: 10%;
+}
+
+.histoire {
+  background-image: url("img/icon-histoire.png");
+  background-repeat: no-repeat;
+  background-position: 85% 60%; 
+  background-size: 30%;
+  text-align: left;
+}
+
+.kennedy_space_center {
+  width: 253px;
+  height: 192px;
+  float: right;
+  padding: 10px;
+}
+
+.key_west {
+  width: 222px;
+  height: 163px;
+  float: right;
+  padding: 10px;
+}
+
+.lieu {
+  text-decoration: none;
+  color: #8289f7;
+}
+
+.li_art_deco {
+  list-style-image: url(img/icon-art.png);
+  font-variant: small-caps;
+}
+
+.li_chateau_disneyland {
+  list-style-image: url(img/icon-disney.png);
+  font-variant: small-caps;
+}
+
+.li_downtown {
+  list-style-image: url(img/icon-immeuble.png);
+  font-variant: small-caps;
+}
+
+.li_entrée_disney {
+  list-style-image: url(img/icon-mickey.png);
+  font-variant: small-caps;
+  padding-bottom: 220px;
+}
+
+.li_entrée_universal {
+  list-style-image: url(img/icon-clap.png);
+  font-variant: small-caps;
+}
+
+.li_epcot {
+  list-style-image: url(img/icon-mickey.png);
+  font-variant: small-caps;
+  padding-bottom: 220px;
+}
+
+.li_flamand {
+  list-style-image: url(img/icon-ruisseau.png);
+  font-variant: small-caps;
+}
+
+.li_fusée {
+  list-style-image: url(img/icon-fusée.png);
+  font-variant: small-caps;
+  padding-bottom: 200px;
+}
+
+.li_kennedy_space_center {
+  list-style-image: url(img/icon-lieu.png);
+  font-variant: small-caps;
+}
+
+.li_key_west {
+  list-style-image: url(img/icon-plage.png);
+  font-variant: small-caps;
+  padding-bottom: 200px;
+}
+
+.li_maison_key_west {
+  list-style-image: url(img/icon-maison.png);
+  font-variant: small-caps;
+}
+
+.li_monorail_disney {
+  list-style-image: url(img/icon-attraction.png);
+  font-variant: small-caps;
+  padding-bottom: 220px;
+}
+
+.li_pluto {
+  list-style-image: url(img/icon-mickey.png);
+  font-variant: small-caps;
+}
+
+.li_symbole_universal {
+  list-style-image: url(img/icon-clap.png);
+  font-variant: small-caps;
+  padding-bottom: 220px;
+}
+
+.li_tree_of_life {
+  list-style-image: url(img/icon-mickey.png);
+  font-variant: small-caps;
+  padding-bottom: 220px;
+}
+
+.li_wizarding_world {
+  list-style-image: url(img/icon-magicien.png);
+  font-variant: small-caps;
+  padding-bottom: 190px;
+}
+
+.maison_key_west {
+  width: 235px;
+  height: 157px;
+  float: right;
+  padding: 10px;
+}
+
+.monorail_disney {
+  width: 255px;
+  height: 138px;
+  float: right;
+  padding: 10px;
+}
+
+.nom {
+  text-decoration: none;
+  color: #ba5af5;
+}
+
+.pluto {
+  width: 235px;
+  height: 157px;
+  float: right;
+  padding: 10px;
+}
+
+.sommaire {
+  text-align: center;
+  font-family: "sommaire";
+  font-size: 15px;
+  padding-top: 99px;
+}
+
+.sommaire li {
+  padding: 5px;
+}
+
+.sommaire ul {
+  list-style: none;
+  border: 1px solid #88430a;
+  padding-right: 30px;
+  margin-top: -70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+  margin-right: 40px;
+}
+
+.source {
+  text-align: right;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.sport {
+  background-image: url("img/icon-sport.png");
+  background-repeat: no-repeat;
+  background-position: 85% 50%; 
+  background-size: 35%;
+  text-align: left;
+}
+
+.symbole_universal {
+  width: 235px;
+  height: 157px;
+  float: right;
+  padding: 10px;
+}
+
+.titre h1 {
+  padding-top: 40px;
+}
+
+.tourisme {
+  background-image: url("img/icon-tourisme.png");
+  background-repeat: no-repeat;
+  background-position: 10% 50%; 
+  background-size: 35%;
+  text-align: right;
+  margin-right: 10%;
+}
+
+.tree_of_life {
+  width: 235px;
+  height: 157px;
+  float: right;
+  padding: 10px;
+}
+
+.wizarding_world {
+  width: 235px;
+  height: 157px;
+  float: right;
+  padding: 10px;
+}
+
+/* J'ai réussi à faire en sorte que lorsque l'on dézoome la page, le contenu de la page reste au centre, mais les background imges restent malheureusement 
+   à la même taille*/ 
+/* J'ai ajouter diverses icones variées afin de personnaliser mes puces de photos, chaque icone a un rapport avec l'image*/
+/* J'ai aussi glissé des gifs à coté de mes sources pour que ce soient plus esthétique*/
+/* Sur certaines pages, lorsque l'on appuie sur les images, cela renvoi au lien wikipédia associé au sujet ou à l'image*/ 
+/* J'ai essayé de mettre tous les éléments de mon menu avec leur propriété dans le fichier base.css mais cela ne marchait pas*/

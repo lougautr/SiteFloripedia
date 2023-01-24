@@ -1,0 +1,167 @@
+.capcana {
+  background-image: url("img/icon-capcana.png");
+  background-repeat: no-repeat;
+  background-position: 95% 6%; 
+  background-size: 30%;
+  text-align: left;
+}
+
+.climat {
+  background-image: url("img/icon-climat.png");
+  background-repeat: no-repeat;
+  background-position: 20% 8%; 
+  background-size: 35%;
+  text-align: right;
+  margin-right: 10%;
+}
+
+.histoire {
+  background-image: url("img/icon-histoire.png");
+  background-repeat: no-repeat;
+  background-position: 85% 60%; 
+  background-size: 30%;
+  text-align: left;
+}
+
+.img_alligator {
+  width: 168px;
+  height: 126px;
+  float: right;
+  padding-right: 40px;
+}
+
+.img_fleur_oranger {
+  width: 168px;
+  height: 126px;
+  float: right;
+  padding-right: 40px;
+}
+
+.img_orange {
+  width: 168px;
+  height: 126px;
+  float: right;
+  padding-right: 40px;
+}
+
+.img_oranger {
+  width: 168px;
+  height: 126px;
+  float: right;
+  padding-right: 40px;
+}
+
+.img_panthere {
+  width: 168px;
+  height: 126px;
+  float: right;
+  padding-right: 40px;
+}
+
+.img_tallahassee {
+  width: 168px;
+  height: 126px;
+  float: right;
+  padding-right: 40px;
+}
+
+.infos1 {
+  border: 5px dotted #88430a;
+  font-size: 15px;
+  padding-left: 17px;
+  padding-top: 10px;
+  font-variant: small-caps;
+}
+
+.infos1 h2 {
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 3px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.infos1 li {
+  padding-bottom: 140px;
+  list-style-image: url(img/icon-croco.png);
+}
+
+.infos2 {
+  border: 5px dotted #88430a;
+  font-size: 15px;
+  padding-left: 17px;
+  padding-top: 10px;
+  font-variant: small-caps;
+}
+
+.infos2 h2 {
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 3px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.infos2 li {
+  padding-bottom: 140px;
+  list-style-image: url(img/icon-croco.png);
+}
+
+.milieu {
+  display: grid;
+  grid-template-columns: 330px 450px 500px;
+  grid-gap: 10px;
+  width: 100%;
+  height: 100%;
+}
+
+.ouverture {
+  font-size: 17px;
+  margin-left: 350px;
+  margin-top: 60px;
+  font-variant: small-caps;
+  padding-bottom: 90px;
+}
+
+.photo_plage {
+  width: 240px;
+  height: 125px;
+  margin-left: 30px;
+  margin-top: 70px;
+} 
+
+.présentation {
+  text-align: center; 
+  margin-top: 50px;
+}
+
+.sport {
+  background-image: url("img/icon-sport.png");
+  background-repeat: no-repeat;
+  background-position: 85% 50%; 
+  background-size: 35%;
+  text-align: left;
+}
+
+.titre h1 {
+  padding-top: 40px;
+}
+
+.tourisme {
+  background-image: url("img/icon-tourisme.png");
+  background-repeat: no-repeat;
+  background-position: 10% 50%; 
+  background-size: 35%;
+  text-align: right;
+  margin-right: 10%;
+}
+
+.video_présentation {
+  border: 5px solid #4d75a8;
+  width: 667px;
+  height: 375px;
+}
+
+/* J'ai importé des icones pour mon menu et des images pour soutenir mes sections "infos" ou je glisse quelques infos rapide (symboles de la Floride)*/
+/* J'ai aussi glissé des gifs à coté de mes sources pour que ce soient plus esthétique*/
+/* J'ai essayé de mettre tous les éléments de mon menu avec leur propriété dans le fichier base.css mais cela ne marchait pas*/

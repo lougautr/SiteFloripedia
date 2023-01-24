@@ -1,0 +1,147 @@
+/* Voici deux polices que j'ai importé depuis fontsquirrel*/
+
+@font-face {
+  font-family: "titre";
+  src: url('../polices/kaushanscript-regular-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: "menu";
+  src: url('../polices/chunkfive-regular-webfont.woff') format('woff');
+}
+
+/*--------------------------------------------------*/
+
+/* Ceci est mon fichier css de base qui sera reliée à chaque page de mon site*/
+
+.capcana:hover {
+  background-image: url("img/icon-capcana2.png");
+  background-repeat: no-repeat;
+  background-position: 95% 6%; 
+  background-size: 20%;
+}
+
+.climat:hover {
+  background-image: url("img/icon-climat2.png");
+  background-repeat: no-repeat;
+  background-position: 15% 50%; 
+  background-size: 35%;
+}
+
+.drapeau {
+  width: 250px;
+  height: 170px;
+  float: left;
+}
+
+footer {
+  font-size: 13px;
+  text-align: center;
+  word-spacing: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.gif_fusée {
+  width: 120px;
+  height: 120px;
+}
+
+header {
+  border: 6px double #88430a;
+  margin-bottom: 70px;
+}
+
+.histoire:hover {
+  background-image: url("img/icon-histoire2.png");
+  background-repeat: no-repeat;
+  background-position: 85% 60%; 
+  background-size: 30%;
+}
+
+.home {
+  width: 142px;
+  height: 110px;
+  padding-left: 10px;
+}
+
+.home:hover {
+  border: 2px dashed white;
+}
+
+html {
+  background: linear-gradient(to right, #c7f9ec, #f9c7f1, #f8f9b2);
+}
+
+.legende {
+  position: relative;
+  top: 190px; 
+  left: 40px;
+  background: none;
+}
+
+.legende h1 {
+  font-family: "titre";
+  font-size: 30px;
+}
+
+.legende h1 a {
+  text-decoration: none;
+  color: black
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
+.menu {
+  border: 6px solid #88430a;
+  font-family: "menu";
+  width: 80%;
+  box-shadow: 3px 3px #522806;
+  padding: 10px;
+}
+
+.menu li:hover {
+  -webkit-text-stroke: 1px white;
+  font-size: 25px;
+}
+
+.menu li {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.menu ul {
+  list-style-type: none;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.sport:hover {
+  background-image: url("img/icon-sport2.png");
+  background-repeat: no-repeat;
+  background-position: 85% 50%; 
+  background-size: 35%;
+}
+
+.titre {
+  margin-top: 80px;
+  padding-bottom: 50px;
+}
+
+.titre h1 {
+  font-family: "menu";
+  font-size: 60px;
+}
+
+.tourisme:hover {
+  background-image: url("img/icon-tourisme2.png");
+  background-repeat: no-repeat;
+  background-position: 10% 50%; 
+  background-size: 35%;
+}
+
+
+
